@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "devDependencies": {
+    "eslint": "8.49.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexbaskakau/NodeJS.git"
+  },
+  "author": "alexbaskakau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexbaskakau/NodeJS/issues"
+  },
+  "homepage": "https://github.com/alexbaskakau/NodeJS#readme",
+  "dependencies": {
+    "prettier": "^3.0.3"
+  }
+}
